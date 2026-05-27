@@ -1,0 +1,9 @@
+=== HR & HRV STATISTICS ===
+HR_mean: 70.20
+HR_std: 8.46
+HR_min: 45.52
+HR_max: 96.33
+HRV_mean: 5.60
+HRV_std: 4.27
+HRV_min: 0.00
+HRV_max: 24.92
